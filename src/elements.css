@@ -1,0 +1,32 @@
+.elements{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+
+.check-box{
+    border : 1px solid white;
+    padding: 20px;
+    margin-right: 5px;
+    
+    
+}
+.para{
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 50%;
+    line-height: 25px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cross{
+    border-radius: 5px;
+    font-size: 2rem;
+    
+}
